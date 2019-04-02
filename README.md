@@ -1,2 +1,2 @@
 # Learning
-Place for all programs created
+Place for all programs created through SSH
